@@ -1,0 +1,126 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+section article {
+    background-color: #000000;
+    width: 6000;
+    height: 1100px;
+}
+
+section article p {
+    line-height: 4;
+    }
+
+    .conocemasdenosotros{
+        color:rgb(255, 255, 255);
+    }
+
+    .colordenav{
+        background-color: rgb(0, 0, 0);
+    }
+
+.negrita{
+    font-weight: bold;
+}
+
+.textogrande{
+    font-size: 130%;
+}
+
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
+
+.deje_su_consulta{
+    width: 200px;
+    height: 150px;
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 65px;
+}
+
+.galeria img{
+
+    width: 30%;
+    opacity: 0.5;
+}
+
+.galeria img:hover{
+    opacity: 1;
+}
+
+.tiposdesalas{
+    color:rgb(255, 255, 255);}
+
+    .margen{
+        margin: 50px;
+    }
+
+    header{
+        display: flex;
+    }
+
+    .navegacion{
+        display: flex;
+        height: 100%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    header div{
+        width: 60%;
+    }
+
+    header div img{
+        width: 9%;
+    }
+
+    nav{
+        width: 40%;
+    }
+
+    footer{
+        display: flex;
+    }
+
+    .redes_sociales{
+        display: flex;
+        width: 30%;
+        justify-content: space-evenly;
+    }
+
+    footer div{
+        width: 80%;
+    }
+
+    i{
+        font-size: 25px;
+    }
+
+    .titulo{
+        text-align: center;
+        font-size: 250%;
+    }
+
+    .img{
+        display: flex;
+        justify-content: center;
+    }
+
